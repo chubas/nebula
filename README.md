@@ -42,3 +42,5 @@ The Player loses when either the Base or the Hero die.
 
 ## Technical spec
 
+    Weapon
+        states : idle, charging, releasing
