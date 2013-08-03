@@ -9,7 +9,7 @@ import urlparse
 
 # Various config settings for the python server
 SETTINGS = {
-    'port':        8080,
+    'port':        9001,
     'logging':     False,
 
     'api-save':    '/lib/weltmeister/api/save.php',
